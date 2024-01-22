@@ -1,16 +1,15 @@
-### Hi there 👋
+### 🚀 Junior Developer | Continuous Learner | Passionate about Innovation
 
-<!--
-**TiffanyStPierre/TiffanyStPierre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello there! 👋 I'm Tiffany, a junior developer on a mission to turn lines of code into meaningful solutions.
+## My journey in the world of software development is fueled by an insatiable curiosity and a passion for continuous learning.
 
-Here are some ideas to get you started:
+## 🌐 Tech Stack:
+* React
+* Javascript
+* Express
+* Node
+* PostgreSQL
+* Ruby on Rails
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## In addtion to my repos, check out my portfolio website
+https://tiffanystpierre.ca/
